@@ -1,2 +1,2 @@
 # Snake-Game
-Language: c++
+Language: C++
